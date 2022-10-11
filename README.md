@@ -1,18 +1,32 @@
-### Hi there 👋
+### Aline Gorisch - [Data Scientist Student] :wave:
 
-- 👀 I'm interested in: Data Science, Data Analytics, Python, and Machine Learning
-- 🌱 Currently learning: Python, SQL, R, Data Analysis, and Machine Learning
-- 🌎 I'm a Geographer and my field is GIS (Geographic Information Systems)
-- 🎓 Currently  I'm an MBA student in Data Science and Analytics from USP Esalq.
-- :woman_technologist: I'm currently in transition to Data Science and Analytics.
+## I'm a geographer who works with mapping projects and who decided to become a Data Scientist.
+
+- 💻 I'm interested in: Data Science, Data Analytics, Python, and Geospatial Data Science
+- 👩‍💻 Currently learning: Python, SQL, R, Data Analysis, and Machine Learning
+- :memo: Currently  I'm an MBA student in Data Science and Analytics at  USP Esalq.
 
 
 ##
-### :mailbox: How to reach me
-<div>
-<a href="https://www.linkedin.com/in/alinegorisch/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href = "https://medium.com/@aline.gorisch"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
-<a href="https://www.kaggle.com/alinegorisch" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" target="_blank"></a> 
-<a href="https://twitter.com/GorischAline" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
-<a href = "mailto:contatoaline.gorisch@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-</div>
+### Connect with me:
+
+[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/alinegorisch/)
+[<img align="left" alt="AlineGorischF | medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/medium.svg" />](https://medium.com/@aline.gorisch)
+[<img align="left" alt="aline_gorich | Kaggle" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original.svg" />](https://www.kaggle.com/alinegorisch)
+[<img align="left" alt="aline_gorich | Twitter" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />](https://twitter.com/GorischAline)
+[<img align="left" alt="aline_gorich | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/5/58/Instagram-Icon.png" />](https://www.instagram.com/aline_gorisch/?hl=en)
+
+<br />
+
+### Languages and Tools:
+<img align="left" alt="python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+
+<img align="left" alt="visual studio code" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+
+<img align="left" alt="Pandas" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+
+<img align="left" alt="GitHub" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+
+<img align="left" alt="Git" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
+<br />
+<br />
