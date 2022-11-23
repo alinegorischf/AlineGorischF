@@ -1,11 +1,13 @@
 ### Aline Gorisch - [Data Scientist Student] :wave:
 
-## I'm a geographer who works with mapping projects and who decided to become a Data Scientist.
+I am a Data Science student, Geographer by nature and also by profession.
 
-- 💻 I'm interested in: Data Science, Data Analytics, Python, and Geospatial Data Science
-- 👩‍💻 Currently learning: Python, SQL, R, Data Analysis, and Machine Learning
-- :memo: Currently  I'm an MBA student in Data Science and Analytics at  USP Esalq.
+Throughout my graduation, I had the opportunity to do internships and develop projects in several areas such as Urban Planning, Archeology, and Public Health. 
 
+Since 2018 I have been working as a mapping consultant in the area of medium and small mining. The main skills I have developed throughout my career have enabled me to be an adaptable person who deals very well with sudden changes. 
+I am naturally a problem solver, anyone who works and lives with me on a day-to-day basis knows that. For me, learning something new is paramount in my life, as it was through a lot of study and research that I discovered what makes me truly happy (learning new things).
+
+When I'm not working or focused on finding materials and courses to study, I enjoy reading, playing with my cats, walking in the park, and watching the birds. My main objective is to migrate to the Data Science area and develop myself in the Technology area.
 
 ##
 ### Connect with me:
